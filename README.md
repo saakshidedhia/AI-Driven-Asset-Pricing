@@ -99,4 +99,5 @@ This project analyzes how sentiment around AI-related announcements, especially 
 ## 📖 Citation
 If you use this work, please cite the research report:
 
-Saakshi Dedhia, Xin Qin, Yaxi Chen, and Mao Li (2025). AI Driven Asset Pricing: The Impact of ChatGPT and AI Announcements on Tech Stocks (ETFs). ECON 515 Research Paper.
+_Saakshi Dedhia, Xin Qin, Yaxi Chen, and Mao Li (2025). AI Driven Asset Pricing: The Impact of ChatGPT and AI Announcements on Tech Stocks (ETFs). ECON 515 Research Paper.
+_
