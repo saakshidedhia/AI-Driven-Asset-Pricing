@@ -85,3 +85,14 @@ This project analyzes how sentiment around AI-related announcements, especially 
    ```bash
    git clone <your-repo-link>
    cd <your-repo>
+   ```
+   ```bash
+   jupyter notebook main_code.ipynb
+   
+## 📌 Results Summary
+
+- ✅ **Sentiment is significant** → Higher AI sentiment scores correlate with higher ETF abnormal returns.
+- 📉 **Volatility is not significant** → Market volatility does not strongly explain CAR.
+- 📊 **Market performance matters** → ETF reactions are amplified by general NASDAQ performance.
+- 🔍 **Robustness confirmed** → Findings hold across OLS, ARIMAX, and alternative specifications.
+
