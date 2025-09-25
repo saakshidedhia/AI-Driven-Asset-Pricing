@@ -34,31 +34,31 @@ It explores how sentiment around AI-related announcements, especially those invo
 ---
 
 ### OLS Regression Results
-![OLS Regression](images/2%20-%20OLS%20Regression%20Result.png)  
+![OLS Regression](/SRC/2-OLSRegressionResult.png)  
 *OLS regression shows a positive and significant relationship between sentiment scores and 3-day CAR.*
 
 ---
 
 ### Overall Visualization
-![Overall Visualization](images/3%20-%20Overall%20Visualization.png)  
+![Overall Visualization](/SRC/3-OverallVisualization.png)  
 *Scatter plot of sentiment vs CAR and distribution of CAR values across the sample.*
 
 ---
 
 ### ACF and PACF Analysis
-![ACF PACF](images/4%20-%20CAR's%20ACF%20and%20PACF.png)  
+![ACF PACF](/SRC/4-CAR'sACFandPACF.png)  
 *ACF and PACF plots helped determine ARIMAX model parameters.*
 
 ---
 
 ### ARIMAX(1,0,0) Results
-![ARIMAX(1,0,0)](images/5%20-%20ARIMAX(1,0,0)%20Regression%20Result.png)  
+![ARIMAX(1,0,0)](/SRC/5-ARIMAXRegressionResult.png)  
 *ARIMAX(1,0,0) confirms significance of sentiment and market factors in explaining CAR.*
 
 ---
 
 ### ARIMAX(0,0,0) Results
-![ARIMAX(0,0,0)](images/6%20-%20ARIMAX(0,0,0)%20Regression%20Result.png)  
+![ARIMAX(0,0,0)](/SRC/6-ARIMAX_RegressionResult.png)  
 *ARIMAX(0,0,0), essentially an OLS with exogenous factors, yields similar significance patterns.*
 
 ---
