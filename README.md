@@ -82,3 +82,9 @@ The notebook is written in **Python 3** and uses the following main libraries:
    ```bash
    git clone <your-repo-link>
    cd <your-repo>
+   ```
+    ```bash
+    jupyter notebook main_code.ipynb
+    ```
+    
+
