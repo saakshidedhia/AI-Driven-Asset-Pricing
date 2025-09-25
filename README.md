@@ -28,7 +28,7 @@ It explores how sentiment around AI-related announcements, especially those invo
 ## 📊 Visualizations
 
 ### ETF Returns vs Sentiment
-![ETF vs Sentiment](SRC/1 - ETF price vs. Sentiment Scores.png)  
+![ETF vs Sentiment](/SRC/1-ETFpricevsSentimentScores.png)  
 *ETF price changes closely tracked sentiment scores during event windows.*
 
 ---
